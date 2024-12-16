@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "ae79d4bd-84b1-4054-84a5-2fe8f3d68d99",
+		"name": "Place",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38639417"
+	},
+	"item": [
+		{
+			"name": "getplace",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/place/",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"place",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
